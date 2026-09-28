@@ -1,0 +1,9 @@
+{
+  "name": "genpark-topological-sorter-tarjan-scc-skill",
+  "version": "1.0.0",
+  "description": "Directed acyclic graph (DAG) topological sorting and Tarjan's strongly connected components (SCC) engine for agent dependency resolution.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
